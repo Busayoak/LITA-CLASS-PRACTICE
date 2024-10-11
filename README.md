@@ -39,7 +39,12 @@ WHERE CONDITION = TRUE
 ![iphone](https://github.com/user-attachments/assets/521d680d-3556-422b-9dba-91b03546b505)
 
 
+### Conclusion
 
+### Reachout to Us on
+☎️ 080371
+📧 busayo.kolade@yahoo.com
+`
 
 
    
