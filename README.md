@@ -26,7 +26,7 @@ Primary source of data from Data Sale.csv and this is an open source data that c
 2. Handling Missing and Variables
 3. Data Cleaning and Formatting
 
-### Dara Analysis
+### Data Analysis
 ---
 Here we include some basic lines of code or querries or even soe of the DAX expressions used during analysis;
 
@@ -34,6 +34,8 @@ Here we include some basic lines of code or querries or even soe of the DAX expr
 SELECT * FROM TABLE AIRPORT_REPORT
 WHERE CONDITION = TRUE
 ```
+
+
 
 
    
