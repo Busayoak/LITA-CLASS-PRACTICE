@@ -35,6 +35,9 @@ SELECT * FROM TABLE AIRPORT_REPORT
 WHERE CONDITION = TRUE
 ```
 
+### Pictures of the Advert Site
+
+
 
 
 
